@@ -1,0 +1,9 @@
+.visit-card__subtitle {
+  font-family: 'Gilroy-Medium', "Arial ", sans-serif;
+  font-size: 18px;
+  line-height: 1.2;
+  max-width: 155px;
+  align-self: flex-end;
+  margin: 0;
+  padding-bottom: 10px;
+}

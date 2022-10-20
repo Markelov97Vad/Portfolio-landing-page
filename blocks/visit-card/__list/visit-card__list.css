@@ -1,0 +1,11 @@
+.visit-card__list {
+  display: flex;
+  justify-content: end;
+  list-style: none;
+  transform: rotate(-90deg);
+  padding: 0;
+  margin: 0 0 44px 0;
+  gap: 10px;
+  max-width: 34px;
+
+}

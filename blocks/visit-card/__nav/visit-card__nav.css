@@ -1,0 +1,5 @@
+.visit-card__nav {
+  display: flex;
+  align-items: center;
+  text-align: left;
+}
