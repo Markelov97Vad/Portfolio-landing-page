@@ -1,0 +1,8 @@
+.header__links {
+  list-style: none;
+  color: #828282;
+  display: flex;
+  justify-content: space-between;
+  margin: 32px 0 32px;
+  padding: 0;
+}
