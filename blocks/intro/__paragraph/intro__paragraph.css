@@ -1,0 +1,12 @@
+.intro__paragraph {
+  font-family: 'Gilroy-Medium', "Arial ", sans-serif;
+  font-size: 18px;
+  line-height: 22px;
+  max-width: 485px;
+  text-align: center;
+  margin: 0 0 40px;
+}
+
+.intro__paragraph:last-child {
+  margin-bottom: 0;
+}
