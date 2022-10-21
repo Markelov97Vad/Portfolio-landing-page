@@ -1,8 +1,7 @@
-.intro__title {
+.section-title {
   font-family: 'Gilroy-Bold', "Arial ", sans-serif;
   font-size: 34px;
   line-height: 42px;
   text-align: center;
-  padding-top: 120px;
-  margin: 0 auto 18px;
+  margin: 0 auto;
 }

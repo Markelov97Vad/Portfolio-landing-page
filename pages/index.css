@@ -17,7 +17,7 @@
 
 @import url(../blocks/visit-card/visit-card.css);
 @import url(../blocks/visit-card/__columns/visit-card__columns.css);
-@import url(../blocks/visit-card/__title/visit-card__title.css);
+@import url(../blocks/section-title/section-title.css);
 @import url(../blocks/visit-card/__subtitle/visit-card__subtitle.css);
 @import url(../blocks/visit-card/__nav/visit-card__nav.css);
 @import url(../blocks/visit-card/__list/visit-card__list.css);
@@ -26,12 +26,12 @@
 @import url(../blocks/visit-card/__image/visit-card__image.css);
 
 @import url(../blocks/intro/intro.css);
-@import url(../blocks/intro/__title/intro__title.css);
+@import url(../blocks/intro/__section-title/intro__section-title.css);
 @import url(../blocks/intro/__box/intro__box.css);
 @import url(../blocks/intro/__paragraph/intro__paragraph.css);
 
 @import url(../blocks/skills/skills.css);
-@import url(../blocks/skills/__title/skills__title.css);
+@import url(../blocks/skills/__section-title/skills__section-title.css);
 @import url(../blocks/skills/__subtitle/skills__subtitle.css);
 @import url(../blocks/skills/__resources-columns/skills__resources-columns.css);
 @import url(../blocks/skills/__resources-column/skills__resources-column.css);
@@ -40,3 +40,9 @@
 @import url(../blocks/skills/__figcaption/skills__figcaption.css);
 @import url(../blocks/skills/__stars/skills__stars.css);
 @import url(../blocks/skills/__star/skills__star.css);
+
+@import url(../blocks/portfolio/potrfolio.css);
+@import url(../blocks/portfolio/__section-title/portfolio__section-title.css);
+@import url(../blocks/portfolio/__figure/portfolio__figure.css);
+@import url(../blocks/portfolio/__image/portfolio__image.css);
+@import url(../blocks/portfolio/__figurecaption/portfolio__figcaption.css);
