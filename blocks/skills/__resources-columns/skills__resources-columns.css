@@ -1,0 +1,10 @@
+.skills__resources-columns {
+  display: grid;
+  grid-template-columns: repeat(2, max-content);
+  grid-auto-flow: column;
+  grid-auto-columns: max-content;
+  margin: 0 auto;
+  justify-content: center;
+  gap: 90px;
+  padding-bottom: 110px;
+}

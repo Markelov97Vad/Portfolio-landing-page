@@ -1,0 +1,7 @@
+.skills__figure {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto 40px;
+}
