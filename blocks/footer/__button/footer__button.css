@@ -1,0 +1,24 @@
+.footer__button {
+  display: inline-block;
+  color: white;
+  text-decoration: none;
+  padding: .5em 2em;
+  outline: none;
+  border-style: solid none;
+  border-radius: 50px;
+  background: #000;
+  transition: 0.2s;
+  font-family: 'Gilroy-Bold';
+  font-size: 18px;
+  line-height: 22px;
+  box-shadow: 0 0 5px;
+  margin-bottom: 79px;
+}
+
+.footer__button:hover {
+  background: grey;
+}
+
+.footer__button:active {
+  background: gray;
+}

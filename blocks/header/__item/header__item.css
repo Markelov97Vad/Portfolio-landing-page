@@ -2,4 +2,10 @@
   font-family: 'Gilroy-Bold', "Arial ", sans-serif;
   font-size: 18px;
   line-height: 22px;
+  transition: transform .3s ease-in;
+
+}
+
+.header__item:hover {
+  transform: scale(1.2);
 }

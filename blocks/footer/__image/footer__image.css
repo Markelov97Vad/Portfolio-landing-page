@@ -1,0 +1,9 @@
+.footer__image {
+  width: 40px;
+  height: 40px;
+  transition: opacity .2s ease;
+}
+
+.footer__image:hover {
+  opacity: .4;
+}
