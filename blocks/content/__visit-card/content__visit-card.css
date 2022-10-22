@@ -1,3 +1,23 @@
 .content__visit-card {
   margin: 0 auto 104px;
 }
+
+@media screen and (max-width: 1124px) {
+  .content__visit-card {
+    margin-left: 40px;
+    margin-right: 40px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .content__visit-card {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .content__visit-card {
+    margin-bottom: 83px;
+  }
+}

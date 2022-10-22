@@ -2,3 +2,9 @@
   margin-bottom: 18px;
   padding-top: 120px;
 }
+
+@media screen and (max-width: 600px) {
+  .intro__section-title {
+    margin-bottom: 29px;
+  }
+}

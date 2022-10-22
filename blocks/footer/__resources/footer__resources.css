@@ -3,3 +3,9 @@
   gap: 61px;
   margin: 0 auto 46px;
 }
+
+@media screen and (max-width: 600px) {
+  .footer__resources {
+    gap: 45px;
+  }
+}

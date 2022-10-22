@@ -1,5 +1,5 @@
 .skills__stars {
   display: flex;
   flex-wrap: nowrap;
-  gap: 9px;
+  /* margin-left: 0 9px 0 0; */
 }

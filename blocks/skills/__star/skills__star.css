@@ -1,4 +1,8 @@
 .skills__star {
   width: 26px;
-  
+  margin: 0 9px 0 0;
+}
+
+.skills__star:last-of-type {
+  margin: 0;
 }

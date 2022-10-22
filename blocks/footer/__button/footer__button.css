@@ -22,3 +22,9 @@
 .footer__button:active {
   background: gray;
 }
+
+@media screen and (max-width: 600px) {
+  .footer__button {
+    margin-bottom: 48px;
+  }
+}

@@ -15,6 +15,7 @@
 @import url(../blocks/content/__visit-card/content__visit-card.css);
 @import url(../blocks/content/__intro/content__intro.css);
 @import url(../blocks/content/__skills/content__skills.css);
+@import url(../blocks/content/__portfolio/content__portfolio.css);
 
 @import url(../blocks/visit-card/visit-card.css);
 @import url(../blocks/visit-card/__columns/visit-card__columns.css);

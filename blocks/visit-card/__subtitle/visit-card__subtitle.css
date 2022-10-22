@@ -7,3 +7,9 @@
   margin: 0;
   padding-bottom: 10px;
 }
+
+@media screen and (max-width: 420px) {
+  .visit-card__subtitle {
+    align-self: flex-start;
+  }
+}

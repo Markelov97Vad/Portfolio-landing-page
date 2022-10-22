@@ -10,3 +10,27 @@
   margin-bottom: 0;
   padding-bottom: 96px;
 }
+
+@media screen and (max-width: 1124px) {
+  .portfolio__figure {
+    margin-left: 40px;
+    margin-right: 40px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .portfolio__figure {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .portfolio__figure {
+    margin-bottom: 77px;
+  }
+
+  .portfolio__figure:last-of-type {
+    padding-bottom: 80px;
+  }
+}

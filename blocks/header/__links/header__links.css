@@ -6,3 +6,13 @@
   margin: 32px 0 32px;
   padding: 0;
 }
+
+@media screen and (max-width: 600px) {
+  .header__links {
+    flex-direction: column;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    gap: 15px;
+    max-width: 100px;
+  }
+}
