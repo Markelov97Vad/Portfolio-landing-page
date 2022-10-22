@@ -48,6 +48,7 @@
 @import url(../blocks/portfolio/potrfolio.css);
 @import url(../blocks/portfolio/__section-title/portfolio__section-title.css);
 @import url(../blocks/portfolio/__figure/portfolio__figure.css);
+@import url(../blocks/portfolio/__link/portfolio__link.css);
 @import url(../blocks/portfolio/__image/portfolio__image.css);
 @import url(../blocks/portfolio/__figurecaption/portfolio__figcaption.css);
 
